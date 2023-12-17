@@ -1,0 +1,39 @@
+
+header {
+    background-color: #3498db; 
+    color: #ffffff; 
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  button {
+    background-color: #2ecc71; 
+    color: #ffffff; 
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #27ae60; 
+  }
+  
+
+  a {
+    text-decoration: none;
+    color: #ffffff; 
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

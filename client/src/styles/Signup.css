@@ -1,0 +1,53 @@
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+
+  .SignupPage {
+    text-align: center;
+    margin-top: 50px;
+   
+  }
+  
+  
+  p {
+    color: red; 
+    margin-bottom: 8px;
+  }
+  
+  .success {
+    color: #27ae60; 
+    margin-bottom: 8px;
+  }
+  

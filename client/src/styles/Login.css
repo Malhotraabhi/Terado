@@ -1,0 +1,48 @@
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  
+  p {
+    color: red; 
+    margin-bottom: 8px;
+  }
+  
+ 
+  .LoginPage {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    color: #3498db;
+  }
+  
+  
+  
